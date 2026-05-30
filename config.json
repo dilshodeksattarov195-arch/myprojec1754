@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uploaderuncrypt",
+        "uuid": 7838626,
+        "checksum": "m6o37"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
